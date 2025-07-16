@@ -4,3 +4,7 @@ let z=x+y;
 
 console.log("The sum of x and y is: " + z);
 
+const H=function hello(params) {
+    console.log("Hello");
+  
+}
